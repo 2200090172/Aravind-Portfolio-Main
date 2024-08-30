@@ -45,7 +45,7 @@
 //           </p>
           
 //           <div className="flat_button">
-//             <a target="_blank" href="/Aravind_resume.pdf">
+//             <a target="_blank" href="/Aravind_Resume.pdf">
 //               RESUME
 //             </a>
 //           </div>
